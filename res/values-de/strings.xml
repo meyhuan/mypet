@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Zur Startseite</string>
+    <string name="abc_action_bar_home_description_format">%1$s: %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s: %3$s</string>
+    <string name="abc_action_bar_up_description">Nach oben</string>
+    <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
+    <string name="abc_action_mode_done">Fertig</string>
+    <string name="abc_activity_chooser_view_see_all">Alle ansehen</string>
+    <string name="abc_activitychooserview_choose_application">App auswählen</string>
+    <string name="abc_capital_off">Aus</string>
+    <string name="abc_capital_on">An</string>
+    <string name="abc_search_hint">Suchen…</string>
+    <string name="abc_searchview_description_clear">Suchanfrage löschen</string>
+    <string name="abc_searchview_description_query">Suchanfrage</string>
+    <string name="abc_searchview_description_search">Suchen</string>
+    <string name="abc_searchview_description_submit">Suchanfrage senden</string>
+    <string name="abc_searchview_description_voice">Sprachsuche</string>
+    <string name="abc_shareactionprovider_share_with">Freigeben für</string>
+    <string name="abc_shareactionprovider_share_with_application">Freigeben für %s</string>
+    <string name="abc_toolbar_collapse_description">Minimieren</string>
+    <string name="acknowledgements_dismiss">Verwerfen</string>
+    <string name="add_text">Text hinzufügen</string>
+    <string name="bottom">Unten</string>
+    <string name="camera">Kamera</string>
+    <string name="cancelled">Abgebrochen</string>
+    <string name="chin">Kinn</string>
+    <string name="choose">Auswählen</string>
+    <string name="device_full">Dein Gerät ist voll. Bitte gib Speicherplatz frei und versuche es erneut.</string>
+    <string name="done">Fertig</string>
+    <string name="error_message_camera_failed">"Speicher für dein Bild konnte nicht vorbereitet werden. Es tut uns leid! Details
+
+: %1$s."</string>
+    <string name="error_message_camera_unavailable">Dein Gerät scheint keine Kamera zu haben.</string>
+    <string name="error_message_image_read_failed">"Dein Bild konnte nicht geladen werden. Es tut uns leid! Details
+
+: %1$s."</string>
+    <string name="error_message_local_storage">"Der lokale Speicher konnte nicht abgerufen werden. Es tut uns leid! Details
+
+: %1$s."</string>
+    <string name="error_recording_limit">Aufnahmen sind auf %d Sekunden begrenzt.</string>
+    <string name="error_title_camera_failed">Kameraproblem</string>
+    <string name="error_title_camera_unavailable">Kamera nicht verfügbar</string>
+    <string name="error_title_generic">Hoppla</string>
+    <string name="error_title_image_read_failed">Bildproblem</string>
+    <string name="error_title_local_storage">Speicherproblem</string>
+    <string name="eye">Auge</string>
+    <string name="head_movement">Kopfbewegung</string>
+    <string name="high">Hoch</string>
+    <string name="low">Niedrig</string>
+    <string name="mouth">Mund</string>
+    <string name="play">Abspielen</string>
+    <string name="please_wait">Bitte warten...</string>
+    <string name="pointy_ears">Spitze Ohren</string>
+    <string name="rate_dialog_body">Empfehle My Talking Pet anderen, indem du eine Bewertung im Play Store hinterlässt.</string>
+    <string name="rate_dialog_dismiss">Verwerfen</string>
+    <string name="rate_dialog_no">Nein, Feedback senden</string>
+    <string name="rate_dialog_title">Gefällt dir My Talking Pet?</string>
+    <string name="rate_dialog_yes">Ja, jetzt bewerten</string>
+    <string name="record">Aufnehmen</string>
+    <string name="save">Speichern/Teilen</string>
+    <string name="saved_to_gallery">Video in Galerie gespeichert</string>
+    <string name="search_menu_title">Suchen</string>
+    <string name="stop">Stopp</string>
+    <string name="tone">Ton</string>
+    <string name="top">Oben</string>
+    <string name="top_of_head">Oberseite des Kopfes</string>
+</resources>

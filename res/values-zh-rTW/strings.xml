@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">瀏覽首頁</string>
+    <string name="abc_action_bar_home_description_format">%1$s：%2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s - %2$s：%3$s</string>
+    <string name="abc_action_bar_up_description">向上瀏覽</string>
+    <string name="abc_action_menu_overflow_description">更多選項</string>
+    <string name="abc_action_mode_done">完成</string>
+    <string name="abc_activity_chooser_view_see_all">查看全部</string>
+    <string name="abc_activitychooserview_choose_application">選擇應用程式</string>
+    <string name="abc_capital_off">關閉</string>
+    <string name="abc_capital_on">開啟</string>
+    <string name="abc_search_hint">搜尋…</string>
+    <string name="abc_searchview_description_clear">清除查詢</string>
+    <string name="abc_searchview_description_query">搜尋查詢</string>
+    <string name="abc_searchview_description_search">搜尋</string>
+    <string name="abc_searchview_description_submit">提交查詢</string>
+    <string name="abc_searchview_description_voice">語音搜尋</string>
+    <string name="abc_shareactionprovider_share_with">選擇分享對象</string>
+    <string name="abc_shareactionprovider_share_with_application">與「%s」分享</string>
+    <string name="abc_toolbar_collapse_description">收合</string>
+    <string name="acknowledgements_description">【什麼鬼？】是一款圖片編譯軟體；可以讓靜態的寵物照片動起來，並且模仿人類說話，非常的有趣。\n\n1、選擇圖片\n2、手動調整寵物的五官位置\n3、錄製音頻並預覽\n 4、保存與分享</string>
+    <string name="acknowledgements_dismiss">忽略</string>
+    <string name="acknowledgements_title">使用說明</string>
+    <string name="add_text">添加文字</string>
+    <string name="bottom">底部</string>
+    <string name="camera">相機</string>
+    <string name="cancelled">已取消</string>
+    <string name="chin">下巴</string>
+    <string name="choose">選擇</string>
+    <string name="device_full">您的設備已滿。請釋放空間，然後重試。</string>
+    <string name="done">完成</string>
+    <string name="error_message_camera_failed">"無法為您的圖片準備存儲。抱歉！詳情
+
+：%1$s。"</string>
+    <string name="error_message_camera_unavailable">您的設備似乎並沒有攝像頭。</string>
+    <string name="error_message_image_read_failed">"無法加載您的圖片。抱歉！詳情
+
+：%1$s。"</string>
+    <string name="error_message_local_storage">"無法訪問本地存儲。抱歉！詳情
+
+：%1$s。"</string>
+    <string name="error_recording_limit">對不起，錄音僅限於%d秒。</string>
+    <string name="error_title_camera_failed">攝像頭問題</string>
+    <string name="error_title_camera_unavailable">相機無法使用</string>
+    <string name="error_title_generic">哎呀</string>
+    <string name="error_title_image_read_failed">圖片問題</string>
+    <string name="error_title_local_storage">存儲問題</string>
+    <string name="eye">眼睛</string>
+    <string name="head_movement">頭部運動</string>
+    <string name="high">高</string>
+    <string name="low">低</string>
+    <string name="mouth">嘴巴</string>
+    <string name="ok">好</string>
+    <string name="play">播放</string>
+    <string name="please_wait">請稍候…</string>
+    <string name="pointy_ears">尖尖的耳朵</string>
+    <string name="rate_dialog_body">透過在Play商店留下評論，來向他人推薦我的會說話的寵物。</string>
+    <string name="rate_dialog_dismiss">忽略</string>
+    <string name="rate_dialog_no">不，發送反饋</string>
+    <string name="rate_dialog_title">喜歡我的會說話的寵物？</string>
+    <string name="rate_dialog_yes">是的，現在評分</string>
+    <string name="record">錄製</string>
+    <string name="save">儲存/分享</string>
+    <string name="saved_to_gallery">視頻保存到相冊</string>
+    <string name="search_menu_title">搜尋</string>
+    <string name="stop">停</string>
+    <string name="tone">語氣</string>
+    <string name="top">頂部</string>
+    <string name="top_of_head">頭頂</string>
+</resources>

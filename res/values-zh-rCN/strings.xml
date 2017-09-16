@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">转到主屏幕</string>
+    <string name="abc_action_bar_home_description_format">%1$s：%2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s - %2$s：%3$s</string>
+    <string name="abc_action_bar_up_description">转到上一层级</string>
+    <string name="abc_action_menu_overflow_description">更多选项</string>
+    <string name="abc_action_mode_done">完成</string>
+    <string name="abc_activity_chooser_view_see_all">查看全部</string>
+    <string name="abc_activitychooserview_choose_application">选择应用</string>
+    <string name="abc_capital_off">关闭</string>
+    <string name="abc_capital_on">开启</string>
+    <string name="abc_search_hint">搜索…</string>
+    <string name="abc_searchview_description_clear">清除查询</string>
+    <string name="abc_searchview_description_query">搜索查询</string>
+    <string name="abc_searchview_description_search">搜索</string>
+    <string name="abc_searchview_description_submit">提交查询</string>
+    <string name="abc_searchview_description_voice">语音搜索</string>
+    <string name="abc_shareactionprovider_share_with">分享方式</string>
+    <string name="abc_shareactionprovider_share_with_application">通过%s分享</string>
+    <string name="abc_toolbar_collapse_description">收起</string>
+    <string name="acknowledgements_description">【什么鬼？】是一款图片编译软件；可以让静态的宠物照片动起来，并且模仿人类说话，非常的有趣。\n\n1、选择图片\n2、手动调整宠物的五官位置\n3、录制音频并预览\n 4、保存与分享</string>
+    <string name="acknowledgements_dismiss">我知道了</string>
+    <string name="acknowledgements_title">使用说明：</string>
+    <string name="add_text">添加文字</string>
+    <string name="bottom">底部</string>
+    <string name="camera">相机</string>
+    <string name="cancelled">已取消</string>
+    <string name="chin">下巴</string>
+    <string name="choose">选择</string>
+    <string name="device_full">您的设备已满。请释放空间，然后重试。</string>
+    <string name="done">完成</string>
+    <string name="error_message_camera_failed">"无法为您的图片准备存储。抱歉！详情
+
+：%1$s。"</string>
+    <string name="error_message_camera_unavailable">您的设备似乎并没有摄像头。</string>
+    <string name="error_message_image_read_failed">"无法加载您的图片。抱歉！详情
+
+：%1$s。"</string>
+    <string name="error_message_local_storage">"无法访问本地存储。抱歉！详情
+
+：%1$s。"</string>
+    <string name="error_recording_limit">对不起，录音限于%d秒之内。</string>
+    <string name="error_title_camera_failed">摄像头问题</string>
+    <string name="error_title_camera_unavailable">相机无法使用</string>
+    <string name="error_title_generic">哎呦</string>
+    <string name="error_title_image_read_failed">形象问题</string>
+    <string name="error_title_local_storage">存储问题</string>
+    <string name="eye">眼睛</string>
+    <string name="head_movement">头部运动</string>
+    <string name="high">高</string>
+    <string name="low">低</string>
+    <string name="mouth">嘴巴</string>
+    <string name="ok">好</string>
+    <string name="play">播放</string>
+    <string name="please_wait">请稍候…</string>
+    <string name="pointy_ears">尖尖的耳朵</string>
+    <string name="rate_dialog_body">通过在Play商店留言，来推荐我的会说话的宠物给其他人。</string>
+    <string name="rate_dialog_dismiss">忽略</string>
+    <string name="rate_dialog_no">不，发送反馈</string>
+    <string name="rate_dialog_title">喜欢我的会说话的宠物？</string>
+    <string name="rate_dialog_yes">是的，现在评分</string>
+    <string name="record">录制</string>
+    <string name="save">保存/分享</string>
+    <string name="saved_to_gallery">视频已保存到图库</string>
+    <string name="search_menu_title">搜索</string>
+    <string name="stop">停</string>
+    <string name="tone">语气</string>
+    <string name="top">顶部</string>
+    <string name="top_of_head">头顶</string>
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Vai alla home page</string>
+    <string name="abc_action_bar_up_description">Vai in alto</string>
+    <string name="abc_action_menu_overflow_description">Altre opzioni</string>
+    <string name="abc_action_mode_done">Fine</string>
+    <string name="abc_activity_chooser_view_see_all">Visualizza tutte</string>
+    <string name="abc_activitychooserview_choose_application">"Scegli un'applicazione"</string>
+    <string name="abc_search_hint">Cerca…</string>
+    <string name="abc_searchview_description_clear">Cancella query</string>
+    <string name="abc_searchview_description_query">Query di ricerca</string>
+    <string name="abc_searchview_description_search">Cerca</string>
+    <string name="abc_searchview_description_submit">Invia query</string>
+    <string name="abc_searchview_description_voice">Ricerca vocale</string>
+    <string name="abc_shareactionprovider_share_with">Condividi con</string>
+    <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
+    <string name="abc_toolbar_collapse_description">Comprimi</string>
+    <string name="acknowledgements_dismiss">Rifiuta</string>
+    <string name="add_text">Aggiungi testo</string>
+    <string name="bottom">Giù</string>
+    <string name="camera">Fotocamera</string>
+    <string name="cancelled">Annullato</string>
+    <string name="chin">Mento</string>
+    <string name="choose">Scegli</string>
+    <string name="device_full">Il dispositivo è pieno. Ti invitiamo a liberare spazio e riprovare.</string>
+    <string name="done">Fatto</string>
+    <string name="error_message_camera_failed">"Impossibile preparare l'archiviazione della tua foto. SI amo spiacenti! Dettagli
+
+: %1$s."</string>
+    <string name="error_message_camera_unavailable">Il tuo dispositivo sembra essere sprovvisto di fotocamera.</string>
+    <string name="error_message_image_read_failed">"Impossibile caricare la tua foto. Siamo spiacenti! Dettagli
+
+: %1$s."</string>
+    <string name="error_message_local_storage">"Impossibile accedere alla memoria locale. Siamo spiacenti! Dettagli
+
+: %1$s."</string>
+    <string name="error_recording_limit">Siamo spiacenti, le registrazioni sono limitate a %d secondi.</string>
+    <string name="error_title_camera_failed">Problema con la fotocamera</string>
+    <string name="error_title_camera_unavailable">Fotocamera non disponibile</string>
+    <string name="error_title_generic">Spiacenti</string>
+    <string name="error_title_image_read_failed">Problema con la foto</string>
+    <string name="error_title_local_storage">"Problema con l'archiviazione"</string>
+    <string name="eye">Occhio</string>
+    <string name="head_movement">Movimento della testa</string>
+    <string name="high">Alto</string>
+    <string name="low">Basso</string>
+    <string name="mouth">Bocca</string>
+    <string name="play">Riproduci</string>
+    <string name="please_wait">Attendere prego…</string>
+    <string name="pointy_ears">Orecchie a punta</string>
+    <string name="rate_dialog_body">Consiglia My Talking Pet agli altri lasciando un commento su Play Store.</string>
+    <string name="rate_dialog_dismiss">Rifiuta</string>
+    <string name="rate_dialog_no">No, invia un commento</string>
+    <string name="rate_dialog_title">Ti piace My Talking Pet?</string>
+    <string name="rate_dialog_yes">Sì, dai un voto ora</string>
+    <string name="record">Registra</string>
+    <string name="save">Salva/Condividi</string>
+    <string name="saved_to_gallery">Il video è stato salvato in galleria</string>
+    <string name="search_menu_title">Ricerca</string>
+    <string name="stop">Interrompi</string>
+    <string name="tone">Tono</string>
+    <string name="top">Su</string>
+    <string name="top_of_head">Parte superiore della testa</string>
+</resources>

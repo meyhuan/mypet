@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.v7.widget.AppCompatButton android:id="@id/button1" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/ButtonWithBrightRipple" />
+    <LinearLayout android:orientation="vertical" android:id="@id/container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <Space android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="1.0" />
+        <ImageView android:enabled="false" android:id="@id/image_view" android:background="#00000000" android:padding="0.0dip" android:clickable="false" android:layout_width="fill_parent" android:layout_height="0.0dip" android:scaleType="fitCenter" android:adjustViewBounds="true" android:layout_weight="2.0" />
+        <TextView android:enabled="false" android:textColor="#ff000000" android:gravity="center" android:layout_gravity="top" android:id="@id/text_view" android:background="#00000000" android:padding="0.0dip" android:clickable="false" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_margin="0.0dip" android:maxLines="1" android:includeFontPadding="false" android:layout_weight="1.5" android:lineSpacingExtra="0.0dip" android:fontFamily="@font/montserrat_bold" android:layout_marginStart="0.0dip" android:layout_marginEnd="0.0dip" />
+        <Space android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="1.0" />
+    </LinearLayout>
+</merge>

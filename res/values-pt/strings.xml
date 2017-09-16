@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
+    <string name="abc_action_bar_up_description">Navegar para cima</string>
+    <string name="abc_action_menu_overflow_description">Mais opções</string>
+    <string name="abc_action_mode_done">Concluído</string>
+    <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
+    <string name="abc_activitychooserview_choose_application">Selecione um app</string>
+    <string name="abc_capital_off">DESATIVAR</string>
+    <string name="abc_capital_on">ATIVAR</string>
+    <string name="abc_search_hint">Pesquisar...</string>
+    <string name="abc_searchview_description_clear">Limpar consulta</string>
+    <string name="abc_searchview_description_query">Consulta de pesquisa</string>
+    <string name="abc_searchview_description_search">Pesquisar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Pesquisa por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
+    <string name="abc_toolbar_collapse_description">Recolher</string>
+    <string name="acknowledgements_dismiss">Dispensar</string>
+    <string name="add_text">Adicionar texto</string>
+    <string name="bottom">Fundo</string>
+    <string name="camera">Câmera</string>
+    <string name="cancelled">Cancelado</string>
+    <string name="chin">Queixo</string>
+    <string name="choose">Escolher</string>
+    <string name="device_full">O seu dispositivo está cheio. Por favor, liberte espaço e tente de novo.</string>
+    <string name="done">Feito</string>
+    <string name="error_message_camera_failed">"Falha ao preparar o armazenamento para a sua imagem. Desculpe! Detalhes
+
+: %1$s."</string>
+    <string name="error_message_camera_unavailable">Parece que o seu dispositivo não dispõe de uma câmera.</string>
+    <string name="error_message_image_read_failed">"Falha ao carregar a sua imagem. Desculpe! Detalhes
+
+: %1$s."</string>
+    <string name="error_message_local_storage">"Falha ao aceder ao armazenamento local. Desculpe! Detalhes
+
+: %1$s."</string>
+    <string name="error_recording_limit">Desculpe, as gravações estão limitadas a %d segundos.</string>
+    <string name="error_title_camera_failed">Problema com a câmera</string>
+    <string name="error_title_camera_unavailable">Câmera indisponível</string>
+    <string name="error_title_generic">Ups!</string>
+    <string name="error_title_image_read_failed">Problema de imagem</string>
+    <string name="error_title_local_storage">Problema de armazenamento</string>
+    <string name="eye">Olho</string>
+    <string name="head_movement">Movimento da cabeça</string>
+    <string name="high">Alto</string>
+    <string name="low">Baixo</string>
+    <string name="mouth">Boca</string>
+    <string name="play">Reproduzir</string>
+    <string name="please_wait">Por favor, aguarde...</string>
+    <string name="pointy_ears">Orelhas Pontiagudas</string>
+    <string name="rate_dialog_body">Recomende My Talking Pet a outros deixando um comentário na Play Store.</string>
+    <string name="rate_dialog_dismiss">Dispensar</string>
+    <string name="rate_dialog_no">Não, enviar opinião</string>
+    <string name="rate_dialog_title">Está a gostar de My Talking Pet?</string>
+    <string name="rate_dialog_yes">Sim, classificar agora</string>
+    <string name="record">Gravar</string>
+    <string name="save">Guardar/Partilhar</string>
+    <string name="saved_to_gallery">Vídeo guardado na galeria</string>
+    <string name="search_menu_title">Pesquisar</string>
+    <string name="stop">Parar</string>
+    <string name="tone">Tom</string>
+    <string name="top">Topo</string>
+    <string name="top_of_head">Topo da Cabeça</string>
+</resources>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Другие параметры</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
+    <string name="abc_capital_off">ОТКЛ.</string>
+    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_search_hint">Поиск</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
+    <string name="abc_shareactionprovider_share_with_application">Открыть доступ пользователю %s</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="acknowledgements_dismiss">Отклонить</string>
+    <string name="add_text">Добавить текст</string>
+    <string name="bottom">Низ</string>
+    <string name="camera">Камера</string>
+    <string name="cancelled">Отменено</string>
+    <string name="chin">Подбородок</string>
+    <string name="choose">Выбрать</string>
+    <string name="device_full">Устройство заполнено. Освободите место и повторите попытку.</string>
+    <string name="done">Готово</string>
+    <string name="error_message_camera_failed">"Не удалось найти свободное место для изображения. Сожалеем! Подробности
+
+%1$s."</string>
+    <string name="error_message_camera_unavailable">На вашем устройстве, по-видимому, отсутствует камера</string>
+    <string name="error_message_image_read_failed">"Не удалось загрузить ваше изображение. Сожалеем! Подробности
+
+%1$s."</string>
+    <string name="error_message_local_storage">"Не удалось получить доступ к локальной памяти. Сожалеем! Подробности
+
+%1$s."</string>
+    <string name="error_recording_limit">Извините, продолжительность записи ограничена %d секундами.</string>
+    <string name="error_title_camera_failed">Проблема с камерой</string>
+    <string name="error_title_camera_unavailable">Камера недоступна</string>
+    <string name="error_title_generic">Упс!</string>
+    <string name="error_title_image_read_failed">Проблема изображения</string>
+    <string name="error_title_local_storage">Проблема памяти</string>
+    <string name="eye">Глаз</string>
+    <string name="head_movement">Движение головы</string>
+    <string name="high">Высокий</string>
+    <string name="low">Низкий</string>
+    <string name="mouth">Рот</string>
+    <string name="ok">ОК</string>
+    <string name="play">Воспроизвести</string>
+    <string name="please_wait">Пожалуйста, подождите…</string>
+    <string name="pointy_ears">Заостренные уши</string>
+    <string name="rate_dialog_body">Порекомендуйте My Talking Pet другим, оставив отзыв в магазине приложений.</string>
+    <string name="rate_dialog_dismiss">Отклонить</string>
+    <string name="rate_dialog_no">Нет, отправить отзыв</string>
+    <string name="rate_dialog_title">Нравится My Talking Pet?</string>
+    <string name="rate_dialog_yes">Да, оценить сейчас</string>
+    <string name="record">Запись</string>
+    <string name="save">Сохранить/поделиться</string>
+    <string name="saved_to_gallery">Видео сохранено в галерее</string>
+    <string name="search_menu_title">Поиск</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="stop">Стоп</string>
+    <string name="tone">Тон</string>
+    <string name="top">Верх</string>
+    <string name="top_of_head">Верх головы</string>
+</resources>

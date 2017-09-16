@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
+    <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
+    <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
+    <string name="abc_action_mode_done">OK</string>
+    <string name="abc_activity_chooser_view_see_all">Tout afficher</string>
+    <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
+    <string name="abc_capital_off">DÉSACTIVÉ</string>
+    <string name="abc_capital_on">ACTIVÉ</string>
+    <string name="abc_search_hint">Rechercher…</string>
+    <string name="abc_searchview_description_clear">Effacer la requête</string>
+    <string name="abc_searchview_description_query">Requête de recherche</string>
+    <string name="abc_searchview_description_search">Rechercher</string>
+    <string name="abc_searchview_description_submit">Envoyer la requête</string>
+    <string name="abc_searchview_description_voice">Recherche vocale</string>
+    <string name="abc_shareactionprovider_share_with">Partager avec</string>
+    <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
+    <string name="abc_toolbar_collapse_description">Réduire</string>
+    <string name="acknowledgements_dismiss">Ignorer</string>
+    <string name="add_text">Ajouter du texte</string>
+    <string name="bottom">Bas</string>
+    <string name="camera">Caméra</string>
+    <string name="cancelled">Annulé</string>
+    <string name="chin">Menton</string>
+    <string name="choose">Choisir</string>
+    <string name="device_full">"Votre appareil est plein. Veuillez libérer de l'espace et réessayer."</string>
+    <string name="done">Terminé</string>
+    <string name="error_message_camera_failed">"Impossible de préparer le stockage pour votre image. Désolés ! Détails
+
+: %1$s."</string>
+    <string name="error_message_camera_unavailable">Votre appareil ne semble pas avoir de caméra.</string>
+    <string name="error_message_image_read_failed">"Impossible de charger votre image. Désolés ! Détails
+
+: %1$s."</string>
+    <string name="error_message_local_storage">"Impossible d'accéder au stockage local. Désolés ! Détails
+
+: %1$s."</string>
+    <string name="error_recording_limit">Désolés, les enregistrements sont limités à %d secondes.</string>
+    <string name="error_title_camera_failed">Problème de caméra</string>
+    <string name="error_title_camera_unavailable">Caméra non disponible</string>
+    <string name="error_title_generic">Oups</string>
+    <string name="error_title_image_read_failed">"Problème d'image"</string>
+    <string name="error_title_local_storage">Problème de stockage</string>
+    <string name="eye">Œil</string>
+    <string name="head_movement">Mouvement de la tête</string>
+    <string name="high">Élevé</string>
+    <string name="low">Faible</string>
+    <string name="mouth">Bouche</string>
+    <string name="play">Lire</string>
+    <string name="please_wait">Veuillez patienter...</string>
+    <string name="pointy_ears">Oreilles pointues</string>
+    <string name="rate_dialog_body">"Recommandez My Talking Pet à d'autres personnes en laissant un commentaire sur le Play Store."</string>
+    <string name="rate_dialog_dismiss">Ignorer</string>
+    <string name="rate_dialog_no">Non, envoyer des commentaires</string>
+    <string name="rate_dialog_title">Vous aimez My Talking Pet ?</string>
+    <string name="rate_dialog_yes">"Oui, noter l'appli maintenant"</string>
+    <string name="record">Enregistrer</string>
+    <string name="save">Enregistrer/Partager</string>
+    <string name="saved_to_gallery">Vidéo enregistrée dans la galerie</string>
+    <string name="search_menu_title">Rechercher</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="stop">Arrêter</string>
+    <string name="tone">Ton</string>
+    <string name="top">Haut</string>
+    <string name="top_of_head">Haut de la tête</string>
+</resources>

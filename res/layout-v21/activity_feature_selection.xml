@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <info.wobamedia.mytalkingpet.title.SceneryView android:id="@id/scenery_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="0.0dip" />
+    <info.wobamedia.mytalkingpet.ui.RoundedLinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:id="@id/rounded_layout" android:background="@color/transparent_white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:elevation="15.0dip">
+        <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <info.wobamedia.mytalkingpet.features.FeatureSelectionView android:layout_gravity="center" android:id="@id/feature_selection_view" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <info.wobamedia.mytalkingpet.ui.FixedSizeImageView android:id="@id/placeholder_image_view" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </FrameLayout>
+        <ProgressBar android:id="@id/progress_bar" android:padding="0.0dip" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="4.0dip" android:layout_marginTop="0.0dip" style="?android:progressBarStyleHorizontal" />
+        <TextView android:textSize="16.0dip" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/pointy_ears" android:fontFamily="@font/montserrat_bold" />
+        <android.support.v7.widget.SwitchCompat android:id="@id/pointy_ears_switch" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="true" android:layout_centerInParent="true" />
+    </info.wobamedia.mytalkingpet.ui.RoundedLinearLayout>
+    <ImageView android:id="@id/magnifying_image_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitXY" android:elevation="200.0px" />
+    <android.support.design.widget.FloatingActionButton android:layout_gravity="bottom|center" android:id="@id/done_adjusting_button" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="10.0dip" app:backgroundTint="@color/colorAccent" app:fabSize="normal" app:srcCompat="@drawable/image_crop_done" />
+</FrameLayout>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">ホームへ移動</string>
+    <string name="abc_action_bar_home_description_format">%1$s、%2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s、%2$s、%3$s</string>
+    <string name="abc_action_bar_up_description">上へ移動</string>
+    <string name="abc_action_menu_overflow_description">その他のオプション</string>
+    <string name="abc_action_mode_done">完了</string>
+    <string name="abc_activity_chooser_view_see_all">すべて表示</string>
+    <string name="abc_activitychooserview_choose_application">アプリの選択</string>
+    <string name="abc_search_hint">検索…</string>
+    <string name="abc_searchview_description_clear">検索キーワードを削除</string>
+    <string name="abc_searchview_description_query">検索キーワード</string>
+    <string name="abc_searchview_description_search">検索</string>
+    <string name="abc_searchview_description_submit">検索キーワードを送信</string>
+    <string name="abc_searchview_description_voice">音声検索</string>
+    <string name="abc_shareactionprovider_share_with">共有</string>
+    <string name="abc_shareactionprovider_share_with_application">%sと共有</string>
+    <string name="abc_toolbar_collapse_description">折りたたむ</string>
+    <string name="acknowledgements_dismiss">却下</string>
+    <string name="add_text">テキストを追加する</string>
+    <string name="app_name">マイ トーキングペット</string>
+    <string name="bottom">ボトム</string>
+    <string name="camera">カメラ</string>
+    <string name="cancelled">キャンセルされました</string>
+    <string name="chin">あご</string>
+    <string name="choose">選択する</string>
+    <string name="device_full">デバイスのストレージ容量がいっぱいです。ストレージ容量を確保してから、もう一度お試しください。</string>
+    <string name="done">完了</string>
+    <string name="error_message_camera_failed">"写真を保存するために、ストレージの準備ができませんでした。申し訳ございません！詳細
+
+： %1$s 。"</string>
+    <string name="error_message_camera_unavailable">お使いのデバイスにはカメラが搭載されていないようです。</string>
+    <string name="error_message_image_read_failed">"写真を読み込めませんでした。申し訳ございません！詳細
+
+： %1$s 。"</string>
+    <string name="error_message_local_storage">"ローカルストレージへアクセスできませんでした。申し訳ございません！詳細
+
+： %1$s 。"</string>
+    <string name="error_recording_limit">申し訳ありません。録画できる長さは %d 秒までに制限されています。</string>
+    <string name="error_title_camera_failed">カメラの問題</string>
+    <string name="error_title_camera_unavailable">カメラをご利用いただけません</string>
+    <string name="error_title_generic">あらら</string>
+    <string name="error_title_image_read_failed">画像の問題</string>
+    <string name="error_title_local_storage">ストレージの問題</string>
+    <string name="eye">目</string>
+    <string name="head_movement">頭の動き</string>
+    <string name="high">高</string>
+    <string name="low">低</string>
+    <string name="mouth">口</string>
+    <string name="play">遊ぶ</string>
+    <string name="please_wait">お待ちください…</string>
+    <string name="pointy_ears">先のとがった耳</string>
+    <string name="rate_dialog_body">プレイストアにレビューを残して、マイ トーキングペットをオススメしていただけると幸いです。</string>
+    <string name="rate_dialog_dismiss">却下</string>
+    <string name="rate_dialog_no">いいえ、フィードバックを送信します</string>
+    <string name="rate_dialog_title">マイ トーキングペットは気に入っていただけましたか？</string>
+    <string name="rate_dialog_yes">はい、今すぐ評価します</string>
+    <string name="record">録画する</string>
+    <string name="save">保存/共有する</string>
+    <string name="saved_to_gallery">動画がギャラリーに保存されました。</string>
+    <string name="search_menu_title">検索</string>
+    <string name="stop">停止する</string>
+    <string name="tone">音</string>
+    <string name="top">トップ</string>
+    <string name="top_of_head">頭のてっぺん</string>
+</resources>

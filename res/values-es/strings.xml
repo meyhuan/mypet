@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Ir a la pantalla de inicio</string>
+    <string name="abc_action_bar_up_description">Desplazarse hacia arriba</string>
+    <string name="abc_action_menu_overflow_description">Más opciones</string>
+    <string name="abc_action_mode_done">Listo</string>
+    <string name="abc_activity_chooser_view_see_all">Ver todo</string>
+    <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
+    <string name="abc_capital_off">DESACTIVADO</string>
+    <string name="abc_capital_on">ACTIVADO</string>
+    <string name="abc_search_hint">Buscar…</string>
+    <string name="abc_searchview_description_clear">Borrar consulta</string>
+    <string name="abc_searchview_description_query">Consulta</string>
+    <string name="abc_searchview_description_search">Buscar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Búsqueda por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartir con</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
+    <string name="abc_toolbar_collapse_description">Contraer</string>
+    <string name="acknowledgements_dismiss">Descartar</string>
+    <string name="add_text">Añadir texto</string>
+    <string name="bottom">Abajo</string>
+    <string name="camera">Cámara</string>
+    <string name="cancelled">Cancelado</string>
+    <string name="chin">Barbilla</string>
+    <string name="choose">Elegir</string>
+    <string name="device_full">Tu dispositivo está lleno. Por favor libera espacio y vuelve a intentarlo.</string>
+    <string name="done">Listo</string>
+    <string name="error_message_camera_failed">"No se pudo preparar el almacenamiento para tu foto. ¡Lo sentimos! Detalles
+
+: %1$s."</string>
+    <string name="error_message_camera_unavailable">Al parecer tu dispositivo no tiene una cámara.</string>
+    <string name="error_message_image_read_failed">"No se pudo cargar tu imagen. ¡Lo sentimos! Detalles
+
+: %1$s."</string>
+    <string name="error_message_local_storage">"No se pudo acceder al almacenamiento local. ¡Lo sentimos! Detalles
+
+: %1$s."</string>
+    <string name="error_recording_limit">Lo sentimos, las grabaciones están limitadas a %d segundos.</string>
+    <string name="error_title_camera_failed">Problema con la cámara</string>
+    <string name="error_title_camera_unavailable">Cámara no disponible</string>
+    <string name="error_title_generic">Uy</string>
+    <string name="error_title_image_read_failed">Problema con la imagen</string>
+    <string name="error_title_local_storage">Problema de almacenamiento</string>
+    <string name="eye">Ojo</string>
+    <string name="head_movement">Movimiento de cabeza</string>
+    <string name="high">Alto</string>
+    <string name="low">Bajo</string>
+    <string name="mouth">Boca</string>
+    <string name="ok">Aceptar</string>
+    <string name="play">Reproducir</string>
+    <string name="please_wait">Por favor espera…</string>
+    <string name="pointy_ears">Orejas puntiagudas</string>
+    <string name="rate_dialog_body">Recomienda My Talking Pet a otras personas dejando un comentario en Play Store.</string>
+    <string name="rate_dialog_dismiss">Descartar</string>
+    <string name="rate_dialog_no">No, enviar comentarios</string>
+    <string name="rate_dialog_title">¿Te gusta My Talking Pet?</string>
+    <string name="rate_dialog_yes">Sí, calificar ahora</string>
+    <string name="record">Grabar</string>
+    <string name="save">Guardar/Compartir</string>
+    <string name="saved_to_gallery">Vídeo guardado en la galería</string>
+    <string name="search_menu_title">Buscar</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
+    <string name="stop">Detener</string>
+    <string name="tone">Tono</string>
+    <string name="top">Arriba</string>
+    <string name="top_of_head">Parte superior de la cabeza</string>
+</resources>
